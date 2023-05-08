@@ -1,7 +1,6 @@
 ### Olá eu sou o José Frazão
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript/HTML/CSS
+- 🔭 Hoje trabalho como Full Stack
 - 📫 Contate-me no e-mail jfs102019@hotmail.com
 
 <div align="center">
