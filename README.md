@@ -6,9 +6,7 @@
 
 <br>
   
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=lucas-simao&show_icons=true&theme=algolia) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josef10000&theme=algolia) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josef10000&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=josef10000&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
+|
 
 
 
